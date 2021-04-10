@@ -15,7 +15,7 @@ def takeSecond(elem):#for sorting
     return elem[1]
 sID=(1,2,3,4,5) #students id numbers
 stDic={}
-pGL=[]
+pGL=[] #passgrade list for sorting
 for n in range(1,len(sID)+1):
     print(f"input {n}. student notes")
     stDic[n]=notes()
