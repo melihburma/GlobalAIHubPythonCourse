@@ -1,6 +1,6 @@
 ![](img/newlogo.png)
 
-**Course Date:** 11.04.2021  
+**Course Date:** 9.04.2021  
 **Name:** Melih  
 **Surname:** BURMA  
 **Email:** melihburma@gmail.com   
